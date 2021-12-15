@@ -1,0 +1,58 @@
+.wa{
+    margin-top: 50px;
+    align-items: center;
+    text-align: center;
+
+    border:none
+}
+
+.ed{
+font-size: 50px;
+margin-top: 20px;
+text-align: center;
+
+}
+#do{
+    /* margin: 20px; */
+    padding-inline-start: 70px;
+    padding-right: 110px;
+    padding-bottom: 20px;
+    border-radius: 0px;
+    border-top: black;
+    border-left: 35px;
+   border-right: none;
+   text-align: 50px;
+   width: 300px;
+
+}
+.ea{
+    margin-top: 0px;
+    align-items: center;
+    text-align: center;
+padding-left: 220px;
+
+
+    
+}
+button{
+    width: 310px;
+    height: 30px;
+}
+.ae{
+    /* border:none; */
+    /* align-items: center; */
+   text-align: center;
+   /* pointer-events: painted; */
+ font-size: 30px;
+/* width: 250px; */
+
+
+}
+.ga{
+    margin-top: 30px;
+ align-items: center;
+ text-align: center;   
+}
+.main{
+    font-family: cursive;
+}
